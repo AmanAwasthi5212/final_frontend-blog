@@ -60,7 +60,7 @@ const Disclaimer = () => {
                 It is our sincere intention to respect the rights of content creators. 
                 If you believe that your copyrighted work has been used on our blog in a 
                 way that constitutes copyright infringement, please contact us immediately 
-                at <GreenSpan>morisidhraj001@gmail.com</GreenSpan>. We will promptly 
+                at <GreenSpan>202212077@daiict.ac.in</GreenSpan>. We will promptly 
                 investigate the matter and, if necessary, take appropriate action, 
                 including the removal of the disputed content.
             </Description>

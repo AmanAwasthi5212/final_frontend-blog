@@ -53,7 +53,7 @@ const Contact = ()=>{
                 We love hearing from our readers and fellow enthusiasts. 
                 If you have questions, suggestions, or just want to connect, 
                 here are several ways to reach out to us: 
-                <GreenSpan> morisidhraj001@gmail.com</GreenSpan>
+                <GreenSpan> 202212077@daiict.ac.in</GreenSpan>
             </Description>
 
             
